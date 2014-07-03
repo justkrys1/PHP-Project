@@ -1,0 +1,39 @@
+#imgleft 	{
+			float:left; 
+			height: 250px; 
+			width: 400px; 
+			margin: 20px;
+            margin-top: 65px;			 
+			border: 5px solid #630c36;
+			padding: 20px;		
+			-webkit-box-shadow: 5px 5px 5px #828282;
+			-moz-box-shadow: 5px 5px 5px #828282;
+			box-shadow: 5px 5px 5px #828282;
+			}
+#pright 		{
+			text-indent: 1em; 	
+			text-align: justify; 
+			font-family: Papyrus, "Lucida Calligraphy", "Lucida Bright", "Lucida Sans"; 
+			margin-right: 10px; 
+			font-weight: bold;
+			margin-top: 25px; 
+			margin-bottom: 20px;
+			}
+
+
+.links {font-family: Papyrus, "Lucida Calligraphy", "Lucida Bright", "Lucida Sans";
+        color: blue;
+        font-size: 16px;
+		font-weight: bold;
+		text-align: center;}
+a:link,
+a:visited {
+          color: red;
+         }
+      
+a:hover,
+a:focus  {
+         color: #630c36;
+		 text-decoration: none;
+        }
+

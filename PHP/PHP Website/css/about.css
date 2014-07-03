@@ -1,0 +1,18 @@
+h1 {
+	font-family: Papyrus, "Lucida Calligraphy", "Lucida Bright", Arial;
+	color:red;
+	font-weight: bold;
+	padding-left: 75px;  
+	}
+   
+p {
+	font-family: "Comic Sans MS", cursive, sans-serif; 
+	font-size: 14px;
+	padding-left: 175px;
+	padding-right: 175px;
+	color: black;}
+	
+h2 {
+	color:#630c36;
+	font-family: "Lucida Calligraphy", "Lucida Bright", "Lucida Sans";
+    padding-left: 125px;}
